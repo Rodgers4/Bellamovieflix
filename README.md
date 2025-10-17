@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository contains the **legacy open-source version** of **NepoFlix**.  
+> The **new NepoFlix is fully ready and live** at [**nepoflix.micorp.pro**](https://nepoflix.micorp.pro/), so this version is now **archived**.  
+> You can still explore and use this open-source version, but all new updates and development happen on the live version!
+
 <div align="center">
 
 <!-- PROJECT LOGO -->
@@ -19,7 +24,7 @@
 > **NepoFlix** is your go-to platform for movies, TV shows, and anime — anytime, anywhere.  
 > Enjoy fast streaming, a mobile-friendly interface, and multiple backup sources — **no sign-ups, no subscriptions, no hassle.**
 
-🌐 **[Visit Website](https://nepoflix.vercel.app/)**  
+🌐 **[Visit Website](https://nepoflix.micorp.pro/)**  
 📧 **[Contact Us](mailto:nepoflix.contact@gmail.com)**
 
 ---
@@ -87,20 +92,5 @@ You are free to use, modify, and share it — but you **must** also give credit 
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Sandipeyy/NepoFlix&type=Timeline" />
   </picture>
 </a>
-
----
-
-## 👥 Contributors
-Thanks to these amazing people for helping make this project better!  
-
-<a href="https://github.com/Sandipeyy/NepoFlix/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sandipeyy/NepoFlix" alt="All Contributors" />
-</a>
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/Sandipeyy">Sandipeyy</a> • <a href="mailto:nepoflix.contact@gmail.com">nepoflix.contact@gmail.com</a>
-</p>
 
 </div>
