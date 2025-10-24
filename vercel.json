@@ -1,4 +1,7 @@
 {
+  "builds": [
+    { "src": "vite.config.js", "use": "@vercel/static-build", "config": { "distDir": "dist" } }
+  ],
   "rewrites": [
     { "source": "/proxy/:path*", "destination": "/api/proxy" },
     { "source": "/m3u8proxy/:path*", "destination": "/api/m3u8proxy" },
